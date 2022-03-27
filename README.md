@@ -11,8 +11,9 @@ librerías usadas:
    -Vuelidate: Es una librería para la validación manual de los datos al momento de crear formularios. Ha sido utilizada en este sistema para las validaciones en el formulario creación/edición.
 
 Pasos requeridos para montar la app
--npm install
--npm run serve
+
+npm install
+npm run serve
 
 Vistas del sistema:
 -	/Registros: En esta vista puede crear, editar, eliminar y ver el listado de registros. A demás de esto, desde esta vista podrá cambiar el estado del almuerzo.
