@@ -15,9 +15,9 @@ librerías usadas:
 
 Pasos requeridos para montar la app:
 
-npm install
+-npm install
 
-npm run serve
+-npm run serve
 
 Vistas del sistema:
 -	/Registros: En esta vista puede crear, editar, eliminar y ver el listado de registros. A demás de esto, desde esta vista podrá cambiar el estado del almuerzo entregado.
