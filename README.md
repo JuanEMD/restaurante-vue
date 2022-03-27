@@ -2,7 +2,8 @@
 
 
 Acerca del sistema
-Este sistema nace de la necesidad un restaurante de dar almuerzos gratis y llevar un registro de las entregas realizadas.
+
+Este sistema nace de la necesidad de un restaurante de dar almuerzos gratis y llevar un registro de las entregas realizadas.
 El sistema permitirá al usuario agregar, editar, eliminar y visualizar los registros de una manera sencilla, fácil y amigable, del mismo modo poder especificar a las personas a las que se le ha entregado el almuerzo y a las que no.
 
 librerías usadas:
