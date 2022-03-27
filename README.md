@@ -1,22 +1,5 @@
 # restaurante-vue
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 
 Acerca del sistema
 Este sistema nace de la necesidad un restaurante de dar almuerzos gratis y llevar un registro de las entregas realizadas.
@@ -36,3 +19,22 @@ Vistas del sistema:
 
 Nota: la url default “/” hace referencia a “/Registros”
 
+
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
